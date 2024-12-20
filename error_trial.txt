@@ -1,0 +1,2 @@
+we are trying to push code without having all the master data within local repo.so that it will generate error.
+once we get error then we'll try to unstage code and then try to push
